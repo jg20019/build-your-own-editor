@@ -5,7 +5,7 @@ This repo contains my progress on following the booklet (Build Your Own Editor)[
 ## Requirements
 You need to have make and gcc installed.
 
-## How to compile and run
+## Running kilo
 ```bash
 $ make kilo
 $ ./kilo
